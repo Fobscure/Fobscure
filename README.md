@@ -2,12 +2,12 @@
 
 Welcome to my GitHub!  
 I love everything about LANGUAGE, PSYCHOANALYSIS, and whatever hidden behind symbols, be it digits or words. Recently I got curious about **Ludwig Wittgenstein** and **Jacques Lacan** theories. Although their work has faced many criticisms and reveals certain limitations, I find both their ideas and the debates around them inspiring and provocative.(Yes, Pun intended!)
-My goal is to let my intuition lead and gain a clearer understanding of the world around me through the lens of analysis, statistics, languages.
+My goal is to let my intuition lead and gain a clearer understanding of the world around me through the lens of analysis, statistics, languages. 
 
 ## What Inspires Me
 
-- **Psychoanalysis & Philosophy:** Exploring the foundations of human thought, emotion, behavior and everything lying in The Unconsciousness
-- **Logic & Linguistics:** Delving into how formal systems can illuminate both natural and artificial languages, how AI can interact with human beings through languages, I FEED ON COMPLEX SYSTEMS.
+- **Psychoanalysis & Philosophy:** Understanding human thought, emotion, behavior and everything lying in The Unconsciousness
+- **Logic & Linguistics:** Delving into how formal systems can illuminate both natural and artificial languages, how AI can interact with human beings through languages.
 
 ---
 
