@@ -21,7 +21,7 @@ My goal is to let my intuition lead and gain a clearer understanding of the worl
 **NLP and LLM Research**  
 _Villetaneuse, France (May–July 2025)_  
 - Researching transformers and prompt design for logical reasoning tasks.
-- Performance analysis using Python, Pandas, and Evaluate library.
+
 
 **Content Creator, IMA (NGO)**  
 _Isfahan, Iran (2024–Ongoing, remote)_  
