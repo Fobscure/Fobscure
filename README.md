@@ -1,4 +1,4 @@
-# Hi, I'm Sara 👋
+# Hi, I'm Sara 
 
 Welcome to my GitHub!  
 I love everything about LANGUAGE, PSYCHOANALYSIS, and whatever hidden behind symbols, be it digits or words. Recently I got curious about **Ludwig Wittgenstein** and **Jacques Lacan** theories. Although their work has faced many criticisms and reveals certain limitations, I find both their ideas and the debates around them inspiring and provocative.(Yes, Pun intended!)
