@@ -32,7 +32,7 @@ _Isfahan, Iran (2025–current, remote)_
 - Contributing to the NGO’s website design using WordPress.
 
 ## Skills & Tools
-- **Programming:** intermediate level Python (Pandas, NumPy), R, MATLAB, Java (OOP)
+- **Programming:** Beginner level Python (Pandas, NumPy), R, MATLAB, Java (OOP)
 - **Software:** Intermediate level Office, JASP, Excel
 - **Soft Skills:** Creativity, innovation, analytic thinking, pushing limits
 
