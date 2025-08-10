@@ -45,6 +45,6 @@ _Isfahan, Iran (2025–current, remote)_
 
 ---
 
-If you want to talk linguistics, psychoanalysis, statistics and data analysis, feel free to reach out!
+
 Folanisara@gmail.com
 Telegram: @Fobscure
